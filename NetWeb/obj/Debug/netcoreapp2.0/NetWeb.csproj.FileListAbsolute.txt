@@ -1,0 +1,11 @@
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\bin\Debug\netcoreapp2.0\NetWeb.deps.json
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\bin\Debug\netcoreapp2.0\NetWeb.runtimeconfig.json
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\bin\Debug\netcoreapp2.0\NetWeb.runtimeconfig.dev.json
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\bin\Debug\netcoreapp2.0\NetWeb.dll
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\bin\Debug\netcoreapp2.0\NetWeb.pdb
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.csprojAssemblyReference.cache
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.csproj.CoreCompileInputs.cache
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.AssemblyInfoInputs.cache
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.AssemblyInfo.cs
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.dll
+H:\Coding\GitHub\NetWeb\NetWeb\NetWeb\obj\Debug\netcoreapp2.0\NetWeb.pdb
