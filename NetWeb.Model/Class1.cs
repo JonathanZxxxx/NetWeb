@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace test
+namespace NetWeb.Model
 {
     public class Class1
     {

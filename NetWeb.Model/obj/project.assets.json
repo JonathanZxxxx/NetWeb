@@ -669,11 +669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\test\\test.csproj",
+      "projectUniqueName": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\NetWeb.Model\\NetWeb.Model.csproj",
+      "projectName": "NetWeb.Model",
+      "projectPath": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\NetWeb.Model\\NetWeb.Model.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\test\\obj\\",
+      "outputPath": "H:\\Coding\\GitHub\\NetWeb\\NetWeb\\NetWeb.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
